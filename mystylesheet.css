@@ -2,6 +2,18 @@
     text-align: center;
     background-color: 	#FFFFFF;
     width: auto;
+    font-family: sans-serif
+    
+    
+    
+}
+
+html{
+background-image: url('https://images.template.net/wp-content/uploads/2016/04/13132529/Vector-Home-Icon-Download.jpg');
+background-repeat : no-repeat;
+background-size : cover;
+margin: 0;
+padding: 0;
 }
 
 
@@ -11,7 +23,7 @@ ul{
     margin:0;
     padding:0;
     overflow:hidden;
-    background-color: #555;
+    background-color: 	#1E90FF;
 }
 
 
