@@ -8,6 +8,28 @@
     
 }
 
+
+
+
+h1.line>span {
+    padding: 0 25px;
+    background-color: #fff;
+    position: relative;
+}
+
+/*Line Style*/
+.line:before {
+    content: "";
+    position: absolute;
+    border-bottom: 2px solid purple;
+    width: 100%;
+    left: 0;
+    top: 42px;
+}
+
+
+
+
 html{
 background-image: url('https://images.template.net/wp-content/uploads/2016/04/13132529/Vector-Home-Icon-Download.jpg');
 background-repeat : no-repeat;
