@@ -1,12 +1,13 @@
 #section1{
-    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUttteOXA0nZ4yyX7s2N823sEYjioouibKYIkmkPNto9hOfyu");
+    background:url("https://i.ytimg.com/vi/rC6S6HpJwfw/maxresdefault.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
 width: 100%;
 left: 0;
 top: 0;
-    
+color: white;
+   
     
 }
 
@@ -18,6 +19,7 @@ min-height: 100%;
 width: 100%;
 left: 0;
 top: 0;
+color: black;
     
     
 }
@@ -30,7 +32,8 @@ min-height: 100%;
 width: 100%;
 left: 0;
 top: 0;
-    
+color: black;
+ 
     
 }
 
