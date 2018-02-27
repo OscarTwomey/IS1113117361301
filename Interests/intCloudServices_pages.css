@@ -1,3 +1,53 @@
+#section1{
+    background:url("https://images.techhive.com/images/article/2016/08/clouds-100678070-primary.idge.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+color: black;
+   
+    
+}
+
+#section2{
+    background:url("http://s1.1zoom.me/big0/646/Men_rugby_Mud_Legs_Shorts_Knee_highs_Athletic_shoe_512998_1280x853.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+color: black;
+    
+    
+}
+
+#section3{
+    background:url("https://www.irishtimes.com/polopoly_fs/1.2094304.1423240474!/image/image.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+color: black;
+ 
+    
+}
+
+.section{
+    text-align: center;
+    color: white;
+}   
+   
+   
+   
+   
+   
+   
+   
     ul{
     list-style-type:none;
     margin:0;
@@ -22,3 +72,5 @@ li a{
 li a:hover {
     background-color: #111;
 }
+
+
