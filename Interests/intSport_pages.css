@@ -1,5 +1,5 @@
 #section1{
-    background:url("https://wallpaperscraft.com/image/canal_sunrise_amsterdam_netherlands_59165_1920x1080.jpg");
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUttteOXA0nZ4yyX7s2N823sEYjioouibKYIkmkPNto9hOfyu");
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
@@ -11,24 +11,28 @@ top: 0;
 }
 
 #section2{
-    background:url("http://getwallpapers.com/wallpaper/full/d/f/f/171443.jpg");
+    background:url("http://s1.1zoom.me/big0/646/Men_rugby_Mud_Legs_Shorts_Knee_highs_Athletic_shoe_512998_1280x853.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
 width: 100%;
 left: 0;
 top: 0;
-    }
+    
+    
+}
 
 #section3{
-    background:url("https://hdwallsource.com/img/2014/6/awesome-ireland-wallpaper-21912-22465-hd-wallpapers.jpg");
+    background:url("https://www.irishtimes.com/polopoly_fs/1.2094304.1423240474!/image/image.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
 width: 100%;
 left: 0;
 top: 0;
-    }
+    
+    
+}
 
 .section{
     text-align: center;
@@ -36,8 +40,7 @@ top: 0;
 }
 
 
-
-        ul{
+   ul{
     list-style-type:none;
     margin:0;
     padding:0;
@@ -61,4 +64,3 @@ li a{
 li a:hover {
     background-color: #111;
 }
-
