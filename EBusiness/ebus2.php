@@ -98,7 +98,7 @@ input[type=password] {
     </head>
     <body>
       <ul>
-        <li><a href = "ebus1.php">Home</a></li>
+        <li><a href = "../EBusiness/EBusiness1.html">Home</a></li>
         <li><a href ="Interests/CloudServiceservices.html">Cloud Services</a></li>
         <li><a class = "active" href = "#PAYMENT">Payment Details</a></li>
         </ul>
