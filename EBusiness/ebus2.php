@@ -20,6 +20,32 @@ session_start();
                   border-style:ridge;
              }
 
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: 	#1E90FF;
+}
+
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color:white;
+    text-align:center;
+    padding: 10px 59px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
 
 input[type=text] {
                            border: 2px solid blue;
