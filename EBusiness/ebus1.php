@@ -53,11 +53,7 @@ li a:hover {
             left:9em;
             position: absolute;
         }
-        #Logo1 {
-            top:4em;
-            left:2em;
-            position: absolute;
-        }
+   
         h2 {
             text-align:center;
         }
@@ -80,10 +76,10 @@ li a:hover {
                           color: White;
        }
        button {
-            background-color: #42d7f4;
+            background-color: #1E90FF;
                            border-radius: 2px;
                            border:none;
-                           color: black;
+                           color: white;
                            padding: 5px;
                            cursor: pointer;
        }
