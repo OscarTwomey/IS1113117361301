@@ -50,10 +50,7 @@ li a:hover {
         <li><a href ="Interests/CloudServices.html">Cloud Services</a></li>
         <li><a class = "active" href = "#RECEIPT">Purchase Receipt</a></li>
         </ul>
-          <div id ="Logo3">
-        <img src="https://logos.textgiraffe.com/logos/logo-name/Cloud-designstyle-cloud-m.png">
-    </div>
-        <h1>Purchase Receipt</h1>
+        <h2>Purchase Receipt</h2>
         <div id = "mainContent">
         <?php
         //Echo session varaibles that were set to the previous page
