@@ -10,7 +10,7 @@ session_start();
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
          <script type="text/javascript" src="ebus2_validator.js"></script>
-         <PHP><head><link href="Ebus.css" rel="stylesheet" type="text/css">
+
          <style type = "text/css">
              #content {
                   top:8em;
