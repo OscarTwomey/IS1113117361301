@@ -8,35 +8,31 @@ $email =$_REQUEST['email'];
         <title>RECEIPT</title>
          <PHP><head><link href="Ebus.css" rel="stylesheet" type="text/css">
              <style type = "text/css">
-              #Logo3 {
-            top:4em;
-            left:2em;
-            position: absolute;
-        }
-              ul{
-            list-style-type:none;
-            margin:0;
-            padding:0;
-            width:100%;
-            overflow:hidden;
-            background-color:#42d7f4 ;
+            ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: 	#1E90FF;
 }
+
+
 li{
     float: left;
 }
+
 li a{
     display: block;
-    color:black;
+    color:white;
     text-align:center;
-    padding: 16px 18px;
+    padding: 10px 59px;
     text-decoration: none;
 }
+
 li a:hover {
-    background-color:#d966ff ;
+    background-color: #111;
 }
-.active {
-    background-color: #d966ff ;
-}
+
                  #mainContent {
                                 top:8em;
                                 left:25em;
