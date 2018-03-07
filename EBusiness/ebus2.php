@@ -98,14 +98,12 @@ input[type=password] {
     </head>
     <body>
       <ul>
-        <li><a href = "../EBusiness/EBusiness1.html">Home</a></li>
-        <li><a href ="Interests/CloudServiceservices.html">Cloud Services</a></li>
+        <li><a href = "../homepage.html">Home</a></li>
+        <li><a href = "../EBusiness/EBusiness1.html">E-Business</a></li>
+        <li><a href ="../Interests/CloudServiceservices.html">Cloud Services</a></li>
         <li><a class = "active" href = "#PAYMENT">Payment Details</a></li>
         </ul>
-          <div id ="Logo2">
-        <img src="https://logos.textgiraffe.com/logos/logo-name/Cloud-designstyle-cloud-m.png">
-    </div>
-        <h2>Please enter your payment details</h2>
+        <h2>Please enter your details</h2>
         <div id ="content">
             <form name = "myForm"  method="POST" action="ebus3.php">
                     <br>

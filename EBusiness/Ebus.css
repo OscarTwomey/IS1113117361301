@@ -1,56 +1,91 @@
 
-ul{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    background-color: 	#1E90FF;
+ ul{
+            list-style-type:none;
+            margin:0;
+            padding:0;
+            width:100%;
+            overflow:hidden;
+            background-color:#42d7f4 ;
 }
-
-
 li{
     float: left;
 }
-
 li a{
     display: block;
-    color:white;
+    color:black;
     text-align:center;
-    padding: 10px 59px;
+    padding: 16px 18px;
     text-decoration: none;
 }
-
 li a:hover {
-    background-color: #111;
+    background-color:#d966ff ;
 }
-
-
-
-.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    cursor: pointer;
+.active {
+    background-color: #d966ff;
 }
-    .button1 {
-    background-color: white; 
-    color: black; 
-    border: 2px solid #4CAF50;
+        
+        #maincontent {
+                        top:7em;
+                        left:25em;
+                        width:30em;
+                        height:30em;
+                        position:absolute;
+                        border-style:groove;
+        }
+        #button1 {
+            top:22.5em;
+            left:3em;
+            position:absolute;
+        }
+        #button2 {
+            top:22.5em;
+            left:13em;
+            position:absolute;
+        }
+        #button3 {
+            top:25em;
+            left:9em;
+            position: absolute;
+        }
+        #Logo1 {
+            top:4em;
+            left:2em;
+            position: absolute;
+        }
+        h2 {
+            text-align:center;
+        }
+        input[type=text] {
+                           border: 2px solid black;
+                           border-radius: 4px;
+                           text-align:center;
 }
-
-.button1:hover {
-    background-color: #4CAF50;
-    color: white;
-}
-
+       button[type=submit]:disabled {
+                           background-color: grey;
+                           border-radius: 2px;
+                           border:none;
+                           color: black;
+                           padding: 5px;
+                           cursor: pointer;
+                           
+       }
+       button[type=submit]:enabled {
+                          background-color:#80ffd4;
+                          color: White;
+       }
+       button {
+            background-color: #42d7f4;
+                           border-radius: 2px;
+                           border:none;
+                           color: black;
+                           padding: 5px;
+                           cursor: pointer;
+       }
+       button:hover {
+           background-color:#d966ff;
+           color:White;
+       }
+       
 
 
 h1 {
