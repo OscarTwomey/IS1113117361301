@@ -10,7 +10,6 @@ session_start();
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
          <script type="text/javascript" src="ebus2_validator.js"></script>
-
          <style type = "text/css">
              #content {
                   top:8em;
@@ -20,35 +19,8 @@ session_start();
                   position:absolute;
                   border-style:ridge;
              }
-             #Logo2 {
-            top:4em;
-            left:2em;
-            position: absolute;
-        }
-              ul{
-            list-style-type:none;
-            margin:0;
-            padding:0;
-            width:100%;
-            overflow:hidden;
-            background-color:#42d7f4 ;
-}
-li{
-    float: left;
-}
-li a{
-    display: block;
-    color:black;
-    text-align:center;
-    padding: 16px 18px;
-    text-decoration: none;
-}
-li a:hover {
-    background-color:#d966ff ;
-}
-.active {
-    background-color: #d966ff;
-}
+
+
 input[type=text] {
                            border: 2px solid blue;
                            border-radius: 4px;
