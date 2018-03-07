@@ -46,8 +46,8 @@ li a:hover {
     </head>
     <body>
        <ul>
-        <li><a href = "ebus1.php">Home</a></li>
-        <li><a href ="Interests/CloudServices.html">Cloud Services</a></li>
+        <li><a href = "../EBusiness/ebus1.php">Home</a></li>
+        <li><a href ="../Interests/CloudServices.html">Cloud Services</a></li>
         <li><a class = "active" href = "#RECEIPT">Purchase Receipt</a></li>
         </ul>
         <h2>Purchase Receipt</h2>
