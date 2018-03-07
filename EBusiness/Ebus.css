@@ -1,27 +1,28 @@
 ul{
-            list-style-type:none;
-            margin:0;
-            padding:0;
-            width:100%;
-            overflow:hidden;
-            background-color:#42d7f4 ;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: 	#1E90FF;
 }
+
+
 li{
     float: left;
 }
+
 li a{
     display: block;
-    color:black;
+    color:white;
     text-align:center;
-    padding: 16px 18px;
+    padding: 10px 59px;
     text-decoration: none;
 }
+
 li a:hover {
-    background-color:#d966ff ;
+    background-color: #111;
 }
-.active {
-    background-color: #d966ff;
-}
+
         
         #maincontent {
                         top:7em;
