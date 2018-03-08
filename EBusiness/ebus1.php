@@ -97,8 +97,8 @@ li a:hover {
         
          <ul>
             <li> <a href="homepage.html"> Home</a></li>
-      <li> <a href="CV/CV_Page1.html"> Curriculum Vitae </a> </li>
-      <li> <a href="Interests/Interests.html"> Interests </a> </li>
+      <li> <a href="../CV/CV_Page1.html"> Curriculum Vitae </a> </li>
+      <li> <a href="../Interests/Interests.html"> Interests </a> </li>
       <li> <a href="../EBusiness1.html"> E-Business </a></li>
       
       </ul>
