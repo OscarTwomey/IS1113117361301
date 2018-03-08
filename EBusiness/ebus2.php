@@ -98,7 +98,7 @@ input[type=password] {
       <ul>
         <li><a href = "../homepage.html">Home</a></li>
         <li><a href = "../EBusiness/EBusiness1.html">E-Business</a></li>
-        <li><a href ="../Interests/CloudService.html">Cloud Services</a></li>
+        <li><a href ="../Interests/CloudServices.html">Cloud Services</a></li>
         <li><a class = "active" href = "#PAYMENT">Payment Details</a></li>
         </ul>
         <h2>Please enter your details</h2>
